@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Machine Learning**
+
 
 - 🎓 I’m currently pursuing **Bachelors Of Technology at IGDTUW**
 
